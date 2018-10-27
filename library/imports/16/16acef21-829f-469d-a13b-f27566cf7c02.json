@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "background1",
+    "texture": "53e6c832-3a79-4f5d-a396-c9d89a5da48a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      1920
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      1920
+    ]
+  }
+}

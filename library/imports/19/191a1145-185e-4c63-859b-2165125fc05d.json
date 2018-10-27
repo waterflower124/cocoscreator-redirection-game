@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mute",
+    "texture": "3bd5f403-d7e3-41f7-9038-bc9f3766e0d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      62
+    ]
+  }
+}

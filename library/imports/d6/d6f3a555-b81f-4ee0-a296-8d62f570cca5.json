@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuai",
+    "texture": "00d9bd65-ad40-420a-a9a2-f27a24f1ab3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      108
+    ]
+  }
+}

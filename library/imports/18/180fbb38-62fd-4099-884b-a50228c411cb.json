@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "symbolicOperation",
+    "texture": "4f772fac-46a2-4040-a4a8-fffef2ee1c1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1200,
+      628
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1200,
+      628
+    ]
+  }
+}

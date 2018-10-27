@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Try Again",
+    "texture": "f0103064-f34b-41df-b5c4-41e12be3ffbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      165
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      165
+    ]
+  }
+}

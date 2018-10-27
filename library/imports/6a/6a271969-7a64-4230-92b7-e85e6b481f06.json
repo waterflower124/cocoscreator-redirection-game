@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "road",
+    "texture": "0ef64c16-6058-4e37-9f30-59788de1a5a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      840
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      840
+    ]
+  }
+}

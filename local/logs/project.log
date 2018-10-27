@@ -1,0 +1,71 @@
+2018-08-22T08:35:40.197Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-22T08:35:40.204Z - normal: checking language setting...
+2018-08-22T08:35:40.204Z - normal: Language: en
+2018-08-22T08:35:42.498Z - success: protocol editor-framework registered
+2018-08-22T08:35:42.498Z - success: protocol app registered
+2018-08-22T08:35:42.498Z - success: protocol theme registered
+2018-08-22T08:35:42.498Z - success: protocol packages registered
+2018-08-22T08:35:42.499Z - success: protocol unpack registerred
+2018-08-22T08:35:42.499Z - success: protocol disable-commonjs registerred
+2018-08-22T08:35:42.768Z - normal: connected!
+2018-08-22T08:35:42.772Z - normal: Check project D:\Ridirection\Redirection
+2018-08-22T08:35:42.775Z - normal: Initializing Cocos2d
+2018-08-22T08:35:43.100Z - normal: Initializing Asset Database
+2018-08-22T08:35:43.160Z - success: protocol uuid registerred
+2018-08-22T08:35:43.160Z - success: protocol db registerred
+2018-08-22T08:35:43.160Z - success: protocol thumbnail registerred
+2018-08-22T08:35:43.160Z - normal: Loading editor/builtin packages
+2018-08-22T08:35:43.192Z - success: anysdk loaded
+2018-08-22T08:35:43.380Z - success: assets loaded
+2018-08-22T08:35:43.384Z - success: builder loaded
+2018-08-22T08:35:43.387Z - success: cocos-analytics loaded
+2018-08-22T08:35:43.392Z - success: console loaded
+2018-08-22T08:35:43.451Z - success: fb-instant-games loaded
+2018-08-22T08:35:43.459Z - success: hierarchy loaded
+2018-08-22T08:35:43.463Z - success: inspector loaded
+2018-08-22T08:35:43.465Z - success: keystore loaded
+2018-08-22T08:35:43.468Z - success: node-library loaded
+2018-08-22T08:35:43.470Z - success: package-asset loaded
+2018-08-22T08:35:43.473Z - success: preferences loaded
+2018-08-22T08:35:43.475Z - success: project-exporter loaded
+2018-08-22T08:35:43.500Z - success: project-importer loaded
+2018-08-22T08:35:43.503Z - success: project-settings loaded
+2018-08-22T08:35:43.508Z - success: ui-kit loaded
+2018-08-22T08:35:43.512Z - success: ui-grid loaded
+2018-08-22T08:35:43.516Z - success: scene loaded
+2018-08-22T08:35:43.518Z - success: sprite-editor loaded
+2018-08-22T08:35:43.522Z - success: store loaded
+2018-08-22T08:35:43.528Z - success: timeline loaded
+2018-08-22T08:35:43.528Z - normal: Loading builtin packages
+2018-08-22T08:35:43.533Z - success: asset-db-debugger loaded
+2018-08-22T08:35:43.535Z - success: code-editor loaded
+2018-08-22T08:35:43.535Z - success: color-picker loaded
+2018-08-22T08:35:43.538Z - success: package-manager loaded
+2018-08-22T08:35:43.541Z - success: qqplay-adapter loaded
+2018-08-22T08:35:43.546Z - success: sdkbox loaded
+2018-08-22T08:35:43.551Z - success: tester loaded
+2018-08-22T08:35:43.554Z - success: ui-kit-preview-extra loaded
+2018-08-22T08:35:43.557Z - success: ui-kit-preview loaded
+2018-08-22T08:35:43.560Z - success: ui-tree loaded
+2018-08-22T08:35:43.562Z - success: weapp-adapter loaded
+2018-08-22T08:35:45.272Z - normal: Initializing project D:\Ridirection\Redirection
+2018-08-22T08:35:45.292Z - normal: Loading packages
+2018-08-22T08:35:45.301Z - normal: Watching packages
+2018-08-22T08:35:45.810Z - normal: Run Application
+2018-08-22T08:35:46.684Z - success: preview server running at http://localhost:7456
+2018-08-22T08:35:52.781Z - normal: 1.9.3
+2018-08-22T08:36:11.791Z - warn: Can not find wechat game develop program version information path [C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\package.json].
+2018-08-22T08:36:11.792Z - warn: Wechat game develop version is too low, please upgrade to the newest version.
+2018-08-22T08:36:12.649Z - normal: Initializing...
+
+2018-08-22T08:36:12.658Z - normal: idePortFile: C:\Users\WaterFlower124.DESKTOP-H34J1AH\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2018-08-22T08:36:13.676Z - normal: starting ide...
+
+2018-08-22T08:36:17.447Z - normal: IDE server has started, listening on http://127.0.0.1:14525
+
+2018-08-22T08:36:17.452Z - normal: initialization finished
+
+2018-08-22T08:36:17.875Z - normal: open IDE success
+
+2018-08-22T08:39:09.808Z - info: shutdown preview server
